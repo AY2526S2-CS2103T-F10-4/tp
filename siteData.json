@@ -3,13 +3,12 @@
   "pages": [
     {
       "src": "AboutUs.md",
-      "title": "About Us",
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
         "john-doe": "John Doe",
         "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "enzo-chung": "Enzo Chung",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
       },
@@ -136,10 +135,9 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/enzochung.md",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-offerflow": "Project: OfferFlow"
       },
       "headingKeywords": {}
     }
