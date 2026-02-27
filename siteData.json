@@ -6,8 +6,8 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
+        "viswanathan-jasmitha": "Viswanathan Jasmitha",
+        "elliot-tan": "Elliot Tan",
         "enzo-chung": "Enzo Chung",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
@@ -135,7 +135,23 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/elliotanbz.md",
+      "title": "Elliot Tan's Project Portfolio Page",
+      "headings": {
+        "project-offerflow": "Project: OfferFlow"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/enzochung.md",
+      "headings": {
+        "project-offerflow": "Project: OfferFlow"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/jasmitha.md",
+      "title": "Jasmitha's Project Portfolio Page",
       "headings": {
         "project-offerflow": "Project: OfferFlow"
       },
