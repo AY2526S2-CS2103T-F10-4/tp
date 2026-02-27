@@ -9,7 +9,7 @@
         "viswanathan-jasmitha": "Viswanathan Jasmitha",
         "elliot-tan": "Elliot Tan",
         "enzo-chung": "Enzo Chung",
-        "jean-doe": "Jean Doe",
+        "kai-jun": "Kai Jun",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -152,6 +152,14 @@
     {
       "src": "team/jasmitha.md",
       "title": "Jasmitha's Project Portfolio Page",
+      "headings": {
+        "project-offerflow": "Project: OfferFlow"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/kyicode.md",
+      "title": "Kai Jun's Project Portfolio Page",
       "headings": {
         "project-offerflow": "Project: OfferFlow"
       },
