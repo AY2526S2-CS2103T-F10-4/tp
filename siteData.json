@@ -10,7 +10,7 @@
         "elliot-tan": "Elliot Tan",
         "enzo-chung": "Enzo Chung",
         "kai-jun": "Kai Jun",
-        "james-doe": "James Doe"
+        "valerie": "Valerie"
       },
       "headingKeywords": {}
     },
@@ -131,6 +131,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/dpi2-hss-hp217.md",
+      "title": "Valerie's Project Portfolio Page",
+      "headings": {
+        "project-offerflow": "Project: OfferFlow"
       },
       "headingKeywords": {}
     },
