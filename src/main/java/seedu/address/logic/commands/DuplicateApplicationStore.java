@@ -35,9 +35,4 @@ public class DuplicateApplicationStore {
     public static boolean hasLastDuplicateApplication() {
         return lastDuplicateApplication != null;
     }
-
-
-
-
-
 }
