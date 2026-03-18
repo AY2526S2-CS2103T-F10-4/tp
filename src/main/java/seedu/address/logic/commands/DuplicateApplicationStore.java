@@ -7,7 +7,7 @@ public class DuplicateApplicationStore {
     private static AddCommand lastDuplicateApplication = null;
 
     /**
-     * Stores the duplicate add command.
+     * Stores the duplicate application.
      *
      * @param command the duplicate application
      */
@@ -16,7 +16,7 @@ public class DuplicateApplicationStore {
     }
 
     /**
-     * Retrieves the duplicate add command.
+     * Retrieves the duplicate application.
      */
     public static AddCommand getLastDuplicateApplication() {
         return lastDuplicateApplication;
