@@ -116,6 +116,7 @@
         "editing-a-person-edit": "Editing a person : edit",
         "updating-application-status-status": "Updating application status: status",
         "locating-persons-by-name-find": "Locating persons by name: find",
+        "filtering-applications-filter": "Filtering applications: /filter",
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
