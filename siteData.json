@@ -105,7 +105,6 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
       "headings": {
         "offerflow-user-guide": "OfferFlow User Guide",
         "for-the-internship-hunting-cs-student": "🎯 For the Internship-Hunting CS Student",
@@ -124,6 +123,8 @@
         "filtering-applications-f": "Filtering applications: /f",
         "examples-6": "Examples",
         "deleting-an-application-delete": "Deleting an application : delete",
+        "creating-a-new-address-book-folder": "Creating a new address book : folder",
+        "switching-to-an-existing-address-book-toggle": "Switching to an existing address book : toggle",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
