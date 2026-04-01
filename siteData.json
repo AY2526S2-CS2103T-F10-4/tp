@@ -125,6 +125,7 @@
         "deleting-an-application-delete": "Deleting an application : delete",
         "creating-a-new-address-book-folder": "Creating a new address book : folder",
         "switching-to-an-existing-address-book-toggle": "Switching to an existing address book : toggle",
+        "listing-all-address-books-folders": "Listing all address books : folders",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
