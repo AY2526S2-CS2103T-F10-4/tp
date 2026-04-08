@@ -53,6 +53,7 @@
         "implementation": "Implementation",
         "filter-feature": "Filter feature",
         "update-status-feature": "Update status feature",
+        "dynamic-ui": "Dynamic UI",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
