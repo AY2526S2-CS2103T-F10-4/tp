@@ -62,7 +62,9 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-application": "Deleting a application",
+        "adding-an-application": "Adding an application",
+        "overwriting-an-application": "Overwriting an application",
+        "deleting-an-application": "Deleting an application",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
