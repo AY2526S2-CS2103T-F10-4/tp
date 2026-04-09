@@ -73,12 +73,13 @@
         "editing-an-application": "Editing an application",
         "removing-reminder": "Removing reminder",
         "creating-a-new-folder": "Creating a new folder",
+        "creating-a-new-folder-2": "Creating a new folder",
         "switching-to-an-existing-folder": "Switching to an existing folder",
         "listing-all-folders": "Listing all folders",
         "updating-application-status": "Updating application status",
         "filtering-applications": "Filtering applications",
-        "saving-data": "Saving data",
         "viewing-upcoming-applications": "Viewing upcoming applications",
+        "saving-data": "Saving data",
         "appendix-effort": "Appendix: Effort"
       },
       "headingKeywords": {}
